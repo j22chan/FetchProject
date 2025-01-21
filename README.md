@@ -27,7 +27,7 @@ This iOS application is built using SwiftUI and follows MVVM architecture to dis
    - Optimized memory usage with proper view lifecycle management
 
 ### Time Spent
-Based on the file creation timestamps and complexity, estimated time spent: 8 hours
+Estimated time spent: 8 hours
 
 ### Trade-offs and Decisions
 1. **Image Caching**
